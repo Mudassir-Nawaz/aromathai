@@ -5,4 +5,22 @@ description: Our authentic Thai massage will make you feel both relaxed and ener
 prices:
     - 30$
     - 40$
+name: HOt stone massage
+detail: Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam nam tenetur aut recusandae consequuntur provident atque facere vero, unde quaerat! Repellendus enim et consequatur sed fugiat accusamus eaque minus fuga.
+benefits:
+    - Benefit 1
+    - Benefit 1
+    - Benefit 1
+    - Benefit 1
+service_img: /img/images/beautiful-woman-relaxing-spa-salon-with-hot-stones-body-beauty-treatment-therapy-less-1044x1536.jpg
+faq_heading: FAQ
+faq:
+    - question: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime! Tempora praesentium nulla ea eius et ad officia.?
+      answer: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime!
+    - question: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime! Tempora praesentium nulla ea eius et ad officia.?
+      answer: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime!
+    - question: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime! Tempora praesentium nulla ea eius et ad officia.?
+      answer: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime!
+    - question: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime! Tempora praesentium nulla ea eius et ad officia.?
+      answer: Lorem ipsum dolor sit amet consectetur adipisicing elit. Id aspernatur, corporis eius, exercitationem ut tempora inventore, tenetur non omnis recusandae voluptatum maxime!
 ---
