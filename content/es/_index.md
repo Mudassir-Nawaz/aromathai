@@ -27,18 +27,21 @@ fourth_section:
     services:
         - img: /img/images/top-view-young-asian-woman-receiving-back-massage-spa-salon-by-professional-masseuse-less-1024x540.jpg
           name: THAI HERBAL COMPRESS MASSAGE (Booking required)
+          link: service/service1/
           prices:
             - 60 min 65 €
             - 90 min 95 €
           details: The Thai herbal compress contains numerous herbs tightly bound in fabric which is steamed until hot and firmly rolled. After a full-body pressure point Thai massage, the hot herbal compress is pressed over the entire body in order to relieve general muscular aches, pains and tension. Additionally, improving and stimulating the lymphatic system whilst simultaneously increasing blood flow to aid muscle repair.
         - img: /img/images/top-view-young-asian-woman-receiving-back-massage-spa-salon-by-professional-masseuse-less-1024x540.jpg
           name: THAI HERBAL COMPRESS MASSAGE (Booking required)
+          link: service/service2/
           prices:
             - 60 min 65 €
             - 90 min 95 €
           details: The Thai herbal compress contains numerous herbs tightly bound in fabric which is steamed until hot and firmly rolled. After a full-body pressure point Thai massage, the hot herbal compress is pressed over the entire body in order to relieve general muscular aches, pains and tension. Additionally, improving and stimulating the lymphatic system whilst simultaneously increasing blood flow to aid muscle repair.
         - img: /img/images/top-view-young-asian-woman-receiving-back-massage-spa-salon-by-professional-masseuse-less-1024x540.jpg
           name: THAI HERBAL COMPRESS MASSAGE (Booking required)
+          link: service/service3/
           prices:
             - 60 min 65 €
             - 90 min 95 €
@@ -48,4 +51,6 @@ fourth_section:
 testimonials:
     enable: true
     heading: Client Testimonials
+
+advance_message: "ADVANCED BOOKING RECOMMENDED <p>!!! NO EROTIC MASSAGE !!!</p>"
 ---
