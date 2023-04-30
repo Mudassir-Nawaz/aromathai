@@ -1,0 +1,35 @@
+############################# Catalan ############################
+[ca]
+languageName = "CA"
+flag = "/assets/img/language-eng.png"
+title = "Aroma Thai"
+contentDir = "content/catalan"
+weight = 1
+###########  content ##########
+footer_content = "All Rights Reserved © 2023 D and C Horeca Services Co., Ltd "
+head_link = "#"
+logo_link = "/ca/"
+
+#############################   Espanol  ############################
+[ES]
+languageName = "ES"
+flag = "/assets/img/language-th.png"
+title = "Aroma Thai"
+contentDir = "content/es" 
+weight = 2
+###########  content ##########
+footer_content = "All Rights Reserved © 2023 D and C Horeca Services Co., Ltd "
+head_link = "#"
+logo_link = "/es/"
+
+#############################   English  ############################
+[EN]
+languageName = "EN"
+flag = "/assets/img/language-it.png"
+title = "Aroma Thai"
+contentDir = "content/english"
+weight = 3
+###########  content ##########
+footer_content = "All Rights Reserved © 2023 D and C Horeca Services Co., Ltd "
+head_link = "#"
+logo_link = "/"

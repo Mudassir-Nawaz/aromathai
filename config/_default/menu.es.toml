@@ -1,0 +1,37 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Services"
+url = "services/"
+weight = 2
+
+
+# [[main]]
+# name = "Menu"
+# url = "menu/"
+# weight = 2
+
+[[main]]
+name = "Gift Cards"
+url = "https://aromathaigiftcards.enjovia.com/?lang=en_GB/"
+weight = 3
+
+[[main]]
+name = "Gallery"
+url = "gallery/"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[main]]
+name = "Booking"
+url = "booking/"
+weight = 5
+

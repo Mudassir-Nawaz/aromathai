@@ -1,0 +1,20 @@
+baseURL: '/'
+title: 'My New Hugo Site'
+LanguageCode: "CA"
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+primary_color: red
+params:
+  primary_color: "red"
+  logo: /img/logo/cropped-logo-new-144x114.png
+
+taxonomies:
+  tag: tags
+
+mainSections:
+  - service
